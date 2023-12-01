@@ -2,7 +2,7 @@
 
 ---
 
-**Last Updated: 11/20/2023**
+**Last Updated: 11/01/2023**
 
 24/7 Casino is a virtual gaming platform for entertainment purposes only. It does not involve or support real money gambling, betting, or any financial transactions related to gambling.
 
