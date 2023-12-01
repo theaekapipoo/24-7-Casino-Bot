@@ -46,6 +46,22 @@ For questions about these Terms, please contact us on the [Support Server](https
 ## 11. Refund Policy and Consequences
 All transactions within the Bot are final and non-refundable. Requesting or processing a refund will result in an immediate and permanent ban from using the Bot and its services.
 
+## 12. Circumvention of Currency Transfer Limits
+
+### 12.1 Prohibition of Circumvention
+Users are strictly prohibited from engaging in activities that intentionally circumvent the established limits on currency transfers within the Bot. This includes, but is not limited to:
+- Facilitating the transfer of virtual currency beyond the set daily limits through indirect means, such as intentionally losing in games or matches to transfer currency.
+- Using any method or strategy to bypass or exploit the Bot’s limitations on currency transfers for any purpose, including tax evasion or other financial gains.
+
+### 12.2 Monitoring and Enforcement
+We actively monitor for and investigate suspicious or unusual activities that suggest an attempt to circumvent currency transfer limits. We reserve the right to take appropriate action against any user found to be engaging in such activities. This may include, but is not limited to, temporary or permanent suspension of access to the Bot, forfeiture of virtual currency, and/or other penalties as deemed necessary.
+
+### 12.3 No Loopholes
+There shall be no exceptions or loopholes to this policy, unless given explicit permission by the owner of the Bot. All users are expected to adhere to the transfer limits as they are a fundamental part of the Bot’s operation and governance. Any attempts to find or exploit perceived loopholes without such explicit permission will be treated as a violation of these Terms.
+
+### 12.4 Reporting Mechanism
+Users are encouraged to report any activities or behaviors that they suspect may involve the circumvention of currency transfer limits. Reports can be made anonymously and will be thoroughly investigated to ensure the integrity of the Bot.
+
 ## Data Storage and Usage
 By using the Bot, you consent to our data storage and usage policies. We collect and store data including, but not limited to, your Discord ID, your interaction history with the Bot, and other relevant usage data. This information is used for the operation and continuous improvement of the Bot's services.
 
